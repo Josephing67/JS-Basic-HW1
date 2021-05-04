@@ -12,3 +12,10 @@ var x = 30;
 var y = 20;
 var z = x - y;
 console.log(z)
+
+// Create two variables each storing number. Divide them to get the quotient of the two numbers. //
+
+var x = 30;
+var y = 20;
+var z = x / y;
+console.log(z)
