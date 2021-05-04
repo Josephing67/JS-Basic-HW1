@@ -26,3 +26,12 @@ var x = 30;
 var y = 20;
 var z = x * y;
 console.log(z)
+
+/* Take two strings, “Hello” and “World” store each in their own variable and concatenate the two strings together. 
+The result should be “Hello World”. Store the result in a new variable. */
+
+var string1 = "Hello ";
+var string2 = "World";
+var string3 = string1 + string2;
+console.log(string3)
+
