@@ -5,3 +5,10 @@ var x = 10;
 var y = 20;
 console.log(x + y)
 
+/* Create two variables each storing number. Subtract them together to get
+the difference of the two numbers */
+
+var x = 30;
+var y = 20;
+var z = x - y;
+console.log(z)
