@@ -19,3 +19,10 @@ var x = 30;
 var y = 20;
 var z = x / y;
 console.log(z)
+
+// Create two variables each storing number. Multiple them together to get the product of the two numbers. //
+
+var x = 30;
+var y = 20;
+var z = x * y;
+console.log(z)
