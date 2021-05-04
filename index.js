@@ -35,3 +35,13 @@ var string2 = "World";
 var string3 = string1 + string2;
 console.log(string3)
 
+/* Create the following string “My favorite food is ____”. The blank will be filled in
+with your favorite food. Your favorite food, the string “My favorite food is”, and the
+final string need to each be stored in their own variable. The final result should
+return something like “My favorite food is dinosaur chicken nuggets”. */
+
+var string1 = "My favorite food is ";
+var string2 = "miso";
+var string3 = string1 + string2;
+console.log(string3)
+
